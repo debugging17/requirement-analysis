@@ -94,4 +94,4 @@ Below is a use case diagram for a booking management system, showing the main ac
 - Approve/Reject Booking (Administrator)
 - Receive Confirmation Email
 
-![Booking System Use Case Diagram](alx-booking-uc.png)
+![Booking System Use Case Diagram](alx-booking-uc.png.png)
