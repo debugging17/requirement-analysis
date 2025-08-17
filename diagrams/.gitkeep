@@ -1,0 +1,21 @@
+requirement-analysis/
+│
+├── README.md                  # Main project overview and instructions
+├── alx-booking-uc.png         # Use Case Diagram for booking system
+│
+├── diagrams/                  # Folder for additional diagrams
+│   ├── another-diagram.png
+│   └── flowchart-example.drawio
+│
+├── docs/                      # Folder for notes, study materials, and explanations
+│   ├── requirement-gathering.md
+│   ├── stakeholder-analysis.md
+│   └── best-practices.md
+│
+├── examples/                  # Example use cases, scenarios, or templates
+│   ├── booking-use-cases.md
+│   └── sample-uc-diagram.drawio
+│
+└── references/                # External references, links, or PDFs
+    ├── uml-guide.pdf
+    └── software-engineering-resources.md
