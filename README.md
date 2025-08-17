@@ -38,3 +38,30 @@ Requirement Analysis involves several critical activities that ensure the softwa
 
 - **Requirement Validation:**  
   Checking and verifying that documented requirements accurately represent stakeholders’ needs and are feasible for implementation. Validation may include reviews, walkthroughs, and prototype demonstrations to ensure completeness and correctness.
+
+
+## Types of Requirements
+
+Requirements in software development are categorized into two main types: Functional and Non-functional Requirements. Below are definitions and examples for each, based on a booking management project.
+
+### Functional Requirements
+
+Functional requirements specify what the system should do—its features, behaviors, and interactions. They describe the tasks, functions, and operations the software must perform to meet user needs.
+
+**Examples for a Booking Management Project:**
+- Users can search for available booking slots by date and location.
+- The system allows users to create, modify, and cancel bookings.
+- Administrators can view, approve, or reject booking requests.
+- The system sends confirmation emails to users after successful booking.
+- Users can view their booking history and upcoming reservations.
+
+### Non-functional Requirements
+
+Non-functional requirements define how the system performs its functions. They include quality attributes like performance, security, usability, reliability, and scalability.
+
+**Examples for a Booking Management Project:**
+- The system should respond to booking requests within 2 seconds.
+- User data must be encrypted at rest and in transit.
+- The application must be accessible from mobile devices and desktops.
+- The system should support up to 10,000 concurrent users without performance degradation.
+- The booking service must be available 99.9% of the time.
