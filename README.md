@@ -18,3 +18,23 @@ During requirement analysis, stakeholders such as clients, users, developers, an
 - Proper requirement analysis reduces the likelihood of project scope creep and helps control costs and timelines.
 
 In summary, requirement analysis is critical to delivering high-quality software that fulfills stakeholder expectations and contributes to overall project success.
+
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several critical activities that ensure the software meets stakeholders' needs and expectations. The five key activities are:
+
+- **Requirement Gathering:**  
+  Collecting information from stakeholders to understand their needs, expectations, and constraints for the software. This may involve interviews, surveys, questionnaires, and reviewing existing documentation.
+
+- **Requirement Elicitation:**  
+  Discovering and uncovering actual requirements through direct interaction with stakeholders. Techniques include workshops, brainstorming sessions, observation, and prototyping to clarify ambiguous needs.
+
+- **Requirement Documentation:**  
+  Systematically recording the gathered and elicited requirements in a structured format. Documentation ensures requirements are clear, consistent, and accessible to all project members, typically using use cases, user stories, or requirements specifications.
+
+- **Requirement Analysis and Modeling:**  
+  Examining, organizing, and refining requirements to resolve conflicts and ambiguities. Modeling helps visualize requirements using diagrams, flowcharts, or models, making them easier to understand and validate.
+
+- **Requirement Validation:**  
+  Checking and verifying that documented requirements accurately represent stakeholders’ needs and are feasible for implementation. Validation may include reviews, walkthroughs, and prototype demonstrations to ensure completeness and correctness.
